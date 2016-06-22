@@ -14,10 +14,12 @@
 - [Raspberry Pi Zero](https://www.amazon.com/Raspberry-Pi-Zero/dp/B01FOEUOZW/ref=sr_1_2?s=pc&ie=UTF8&qid=1466461970&sr=1-2&keywords=raspberry+pi+zero)
 
 ### Obstacle sensors
-- [Raspberry Pi FFC camera (x2 or x4)](https://www.amazon.com/Raspberry-5MP-Camera-Board-Module/dp/B00E1GGE40/ref=sr_1_1?ie=UTF8&qid=1466465854&sr=8-1&keywords=raspberry+pi+5mp+camera+board+module)
+- [Raspberry Pi FFC camera (x2)](https://www.amazon.com/Raspberry-5MP-Camera-Board-Module/dp/B00E1GGE40/ref=sr_1_1?ie=UTF8&qid=1466465854&sr=8-1&keywords=raspberry+pi+5mp+camera+board+module)
   - ~$16 ea
 - [Raspberry Pi multi-camera adapter](https://www.amazon.com/Arducam-Camera-Adapter-Compatible-Raspberry/dp/B012UQWOOQ)
   - ~$53
+- [Ultrasonic range finder, 5-pc kit](https://www.amazon.com/CJRSLRB%C2%AE-Ultrasonic-Measuring-Transducer-Duemilanove/dp/B016XJABP0/ref=sr_1_fkmr1_3?ie=UTF8&qid=1466619689&sr=8-3-fkmr1&keywords=sonic+sensor+breakout)
+  - ~$11
 
 ### Quadcopter kit
 - [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
