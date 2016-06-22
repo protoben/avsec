@@ -1,6 +1,4 @@
-## Component candidate list
-
-### Goals
+## Goals
 - Set up a basic platform for doing experiments on autonomous vehicles
 - Get up to speed with the state of the art so we can figure out what research
   questions would be interesting to ask
@@ -8,6 +6,8 @@
   + Use a computer-vision approach to navigation
   + Explore the vulnerabilities of the standard sensors we're using
   + See how far we can go with security using Ivory/Tower
+
+## Component candidate list
 
 ### Core logic unit
 - [Raspberry Pi Zero](https://www.amazon.com/Raspberry-Pi-Zero/dp/B01FOEUOZW/ref=sr_1_2?s=pc&ie=UTF8&qid=1466461970&sr=1-2&keywords=raspberry+pi+zero)
