@@ -26,7 +26,13 @@
 - [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
   - $141.66
 
-### Total: $??
+### Battery
+- [Turnigy 3S 20C 1300mAh LiPo battery](https://www.amazon.com/Turnigy-1300mAh-20C-Lipo-Pack/dp/B0072AEKY8/ref=sr_1_7?ie=UTF8&qid=1466620852&sr=8-7&keywords=3s+lipo+battery)
+  - $14.99
+  - 111g wt.
+- [RiteCharge iMAX B6 multi-chemistry computerized battery charger](https://www.amazon.com/RiteCharge-Professional-Battery-Discharger-Charging/dp/B01DB1BWGA/ref=sr_1_11?ie=UTF8&qid=1466621122&sr=8-11&keywords=lipo+battery+charger)
+
+### Total: $
 
 ## Don't need these if we get the kit:
 
