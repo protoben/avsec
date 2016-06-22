@@ -13,14 +13,18 @@
 ### Core logic unit
 - [Raspberry Pi Zero](https://www.amazon.com/Raspberry-Pi-Zero-Camera-Version/dp/B01GEHPI0E/ref=sr_1_4?ie=UTF8&qid=1466619833&sr=8-4&keywords=pi+zero)
   - $22.90
+  - 23g wt.
 
 ### Obstacle sensors
 - [Raspberry Pi FFC camera (x2)](https://www.amazon.com/Raspberry-5MP-Camera-Board-Module/dp/B00E1GGE40/ref=sr_1_1?ie=UTF8&qid=1466465854&sr=8-1&keywords=raspberry+pi+5mp+camera+board+module)
   - $32 = $16x2
+  - ~0.6g wt = ~0.3gx2
 - [Raspberry Pi multi-camera adapter](https://www.amazon.com/Arducam-Camera-Adapter-Compatible-Raspberry/dp/B012UQWOOQ)
   - $53
+  - ~0.3g wt
 - [Ultrasonic range finder, 5-pc kit](https://www.amazon.com/CJRSLRB%C2%AE-Ultrasonic-Measuring-Transducer-Duemilanove/dp/B016XJABP0/ref=sr_1_fkmr1_3?ie=UTF8&qid=1466619689&sr=8-3-fkmr1&keywords=sonic+sensor+breakout)
   - $11
+  - 1.6g wt.
 
 ### Quadcopter kit
 - [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
@@ -31,6 +35,7 @@
   - $14.99
   - 111g wt.
 - [RiteCharge iMAX B6 multi-chemistry computerized battery charger](https://www.amazon.com/RiteCharge-Professional-Battery-Discharger-Charging/dp/B01DB1BWGA/ref=sr_1_11?ie=UTF8&qid=1466621122&sr=8-11&keywords=lipo+battery+charger)
+  - $24.95
 
 ### Total: $
 
