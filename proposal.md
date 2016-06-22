@@ -11,17 +11,20 @@
 ## Component candidate list
 
 ### Core logic unit
-- [Raspberry Pi Zero](https://www.amazon.com/Raspberry-Pi-Zero/dp/B01FOEUOZW/ref=sr_1_2?s=pc&ie=UTF8&qid=1466461970&sr=1-2&keywords=raspberry+pi+zero)
+- [Raspberry Pi Zero](https://www.amazon.com/Raspberry-Pi-Zero-Camera-Version/dp/B01GEHPI0E/ref=sr_1_4?ie=UTF8&qid=1466619833&sr=8-4&keywords=pi+zero)
+  - $22.90
 
 ### Obstacle sensors
 - [Raspberry Pi FFC camera (x2 or x4)](https://www.amazon.com/Raspberry-5MP-Camera-Board-Module/dp/B00E1GGE40/ref=sr_1_1?ie=UTF8&qid=1466465854&sr=8-1&keywords=raspberry+pi+5mp+camera+board+module)
-  - ~$16 ea
+  - $32 = $16x2
 - [Raspberry Pi multi-camera adapter](https://www.amazon.com/Arducam-Camera-Adapter-Compatible-Raspberry/dp/B012UQWOOQ)
-  - ~$53
+  - $53
 
 ### Quadcopter kit
 - [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
   - $141.66
+
+### Total: $??
 
 ## Don't need these if we get the kit:
 
