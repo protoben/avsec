@@ -37,7 +37,7 @@
 - [RiteCharge iMAX B6 multi-chemistry computerized battery charger](https://www.amazon.com/RiteCharge-Professional-Battery-Discharger-Charging/dp/B01DB1BWGA/ref=sr_1_11?ie=UTF8&qid=1466621122&sr=8-11&keywords=lipo+battery+charger)
   - $24.95
 
-### Total: $
+### Total: $300.50
 
 ## Don't need these if we get the kit:
 
