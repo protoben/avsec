@@ -26,9 +26,13 @@
   - $11
   - 1.6g wt.
 
-### Quadcopter kit
-- [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
-  - $141.66
+### F450 kit alternative
+- [F450 ARF kit](https://www.amazon.com/gp/product/B00G4A2RBU/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=A1YFBJ3XA49LVS)
+  - $199
+- [GPS and compass](https://www.amazon.com/gp/product/B013UW2KKM/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=A9QIOY9HGDU88)
+  - $24.39
+- [APM2.8 Flight Controller](https://www.amazon.com/Hobby-Ace-Apm2-8-Controller-Absorber-Multicopter/dp/B015CPDD4W/ref=pd_sim_sbs_107_18?ie=UTF8&dpID=41X83lZQFVL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=ASX4CM6CN5EX7GEJC5F5)
+  - $49.99
 
 ### Battery
 - [Turnigy 3S 20C 1300mAh LiPo battery](https://www.amazon.com/Turnigy-1300mAh-20C-Lipo-Pack/dp/B0072AEKY8/ref=sr_1_7?ie=UTF8&qid=1466620852&sr=8-7&keywords=3s+lipo+battery)
@@ -37,9 +41,9 @@
 - [RiteCharge iMAX B6 multi-chemistry computerized battery charger](https://www.amazon.com/RiteCharge-Professional-Battery-Discharger-Charging/dp/B01DB1BWGA/ref=sr_1_11?ie=UTF8&qid=1466621122&sr=8-11&keywords=lipo+battery+charger)
   - $24.95
 
-### Total: $300.50
+### Total: $432.22
 
-## Don't need these if we get the kit:
+## Things we probably don't need:
 
 ### IMU
 _Intertial Measurement Unit (provides flight control telemetry)_
@@ -52,4 +56,8 @@ _Intertial Measurement Unit (provides flight control telemetry)_
 
 ### Flight control unit
 _(This may, or may not, be the same component as the flight controller)_
+
+### Quadcopter kit
+- [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
+  - $141.66
 
