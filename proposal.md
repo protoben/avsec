@@ -15,6 +15,12 @@
   - $22.90
   - 23g wt.
 
+## Flight controller and core sensors
+- [3D Robotics Pixhawk Autopilot](https://www.amazon.com/3DR-PX4-KIT-0011-Robotics-Pixhawk-Autopilot/dp/B00JPRS5Y2/ref=sr_1_1?ie=UTF8&qid=1467055318&sr=8-1&keywords=pixhawk)
+  - $184.00
+- [Ublox NEO-M8N GPS Module with Compass](https://www.amazon.com/Readytofly%C2%AE-NEO-M8N-Compass-Folding-Controller/dp/B01FX0GGS6/ref=sr_1_2?s=toys-and-games&ie=UTF8&qid=1467055608&sr=1-2&keywords=gps)
+  - $29.98
+
 ### Obstacle sensors
 - [Raspberry Pi FFC camera (x2)](https://www.amazon.com/Raspberry-5MP-Camera-Board-Module/dp/B00E1GGE40/ref=sr_1_1?ie=UTF8&qid=1466465854&sr=8-1&keywords=raspberry+pi+5mp+camera+board+module)
   - $32 = $16x2
@@ -26,13 +32,9 @@
   - $11
   - 1.6g wt.
 
-### F450 kit alternative
+### Frame, motors, ESCs, props
 - [F450 ARF kit](https://www.amazon.com/gp/product/B00G4A2RBU/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=A1YFBJ3XA49LVS)
-  - $199
-- [GPS and compass](https://www.amazon.com/gp/product/B013UW2KKM/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=A9QIOY9HGDU88)
-  - $24.39
-- [APM2.8 Flight Controller](https://www.amazon.com/Hobby-Ace-Apm2-8-Controller-Absorber-Multicopter/dp/B015CPDD4W/ref=pd_sim_sbs_107_18?ie=UTF8&dpID=41X83lZQFVL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=ASX4CM6CN5EX7GEJC5F5)
-  - $49.99
+  - $229.00
 
 ### Battery
 - [Turnigy 3S 20C 1300mAh LiPo battery](https://www.amazon.com/Turnigy-1300mAh-20C-Lipo-Pack/dp/B0072AEKY8/ref=sr_1_7?ie=UTF8&qid=1466620852&sr=8-7&keywords=3s+lipo+battery)
@@ -41,23 +43,4 @@
 - [RiteCharge iMAX B6 multi-chemistry computerized battery charger](https://www.amazon.com/RiteCharge-Professional-Battery-Discharger-Charging/dp/B01DB1BWGA/ref=sr_1_11?ie=UTF8&qid=1466621122&sr=8-11&keywords=lipo+battery+charger)
   - $24.95
 
-### Total: $432.22
-
-## Things we probably don't need:
-
-### IMU
-_Intertial Measurement Unit (provides flight control telemetry)_
-- [AdaFruit 10-DOF IMU (Gyro, Accel, Magnet, Alti) - IIC breakout](https://www.amazon.com/Adafruit-Accelerometer-Temperature-Gyroscope-L3GD20H/dp/B00QPQ60YS/ref=sr_1_1?ie=UTF8&qid=1466615995&sr=8-1&keywords=Adafruit+10-DOF+IMU)
-  - ~$32
-
-### GPS unit
-- [AdaFruit Ultimate GPS Breakout](https://www.amazon.com/Adafruit-Ultimate-GPS-Breakout-channel/dp/B00GLW4016/ref=sr_1_1?ie=UTF8&qid=1466615843&sr=8-1&keywords=gps+breakout)
-  - ~$40
-
-### Flight control unit
-_(This may, or may not, be the same component as the flight controller)_
-
-### Quadcopter kit
-- [Flamewheel F450](https://www.amazon.com/Quadcopter-controller-Bracket-Brushless-Propeller/dp/B01AABWVJQ/ref=pd_sim_sbs_236_2?ie=UTF8&dpID=51Ot8nhK9dL&dpSrc=sims&preST=_AC_UL160_SR160%2C160_&refRID=BS56TV6NS53WK075R7TA)
-  - $141.66
-
+### Total: $601.82
