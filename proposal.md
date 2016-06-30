@@ -36,6 +36,9 @@
 - [F450 ARF kit](https://www.amazon.com/gp/product/B00G4A2RBU/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=A1YFBJ3XA49LVS)
   - $229.00
 
+- [Summitling FlameWheel F450 prop guard kit](https://www.amazon.com/Summitlink%C2%AE-Flamewheel-Guard-Tool-Free-Guards/dp/B00O5O1U0G)
+  - $19.95
+
 ### Battery
 - [Turnigy 3S 20C 1300mAh LiPo battery](https://www.amazon.com/Turnigy-1300mAh-20C-Lipo-Pack/dp/B0072AEKY8/ref=sr_1_7?ie=UTF8&qid=1466620852&sr=8-7&keywords=3s+lipo+battery)
   - $14.99
