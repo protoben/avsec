@@ -36,9 +36,6 @@
 - [F450 ARF kit](https://www.amazon.com/gp/product/B00G4A2RBU/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=A1YFBJ3XA49LVS)
   - $229.00
 
-- [Summitling FlameWheel F450 prop guard kit](https://www.amazon.com/Summitlink%C2%AE-Flamewheel-Guard-Tool-Free-Guards/dp/B00O5O1U0G)
-  - $19.95
-
 ### Battery
 - [Turnigy 3S 20C 1300mAh LiPo battery](https://www.amazon.com/Turnigy-1300mAh-20C-Lipo-Pack/dp/B0072AEKY8/ref=sr_1_7?ie=UTF8&qid=1466620852&sr=8-7&keywords=3s+lipo+battery)
   - $14.99
@@ -47,3 +44,17 @@
   - $24.95
 
 ### Total: $601.82
+
+### Additional Purchases
+
+- [Summitling FlameWheel F450 prop guard kit](https://www.amazon.com/Summitlink%C2%AE-Flamewheel-Guard-Tool-Free-Guards/dp/B00O5O1U0G)
+  - $19.95
+
+- [Raspberry Pi Zero Camera Cable](https://shop.pimoroni.com/products/camera-cable-raspberry-pi-zero-edition)
+  - £4.00
+
+- [Introcircuit 60W 12V DC power supply](https://amzn.com/B0023Y9EQC)
+  - $6.48
+
+- [XT60 Charge Cable](https://amzn.com/B00CD9QN3Y)
+  - 2@ $4.77 -> $9.54
