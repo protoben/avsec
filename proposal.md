@@ -58,3 +58,16 @@
 
 - [XT60 Charge Cable](https://amzn.com/B00CD9QN3Y)
   - 2@ $4.77 -> $9.54
+
+- [8" USB Micro to USB Micro cable](https://amzn.com/B00N1SHTKM)
+  - $3.99
+
+- ~~[DF13 6-pin flight control cable](http://a.co/hpE8Avo)~~
+  - ~~$7.25~~
+
+- [DF13 to DuPont connector cable](http://a.co/fo7HYC4)
+  - $4.44 each
+  - This one needs to be investigated further. It is unclear how many items are included in an order, and how many pins. A question has been sent to the seller about the details. The product page threatens that if the purchase is not properly parameterized, they "will random Send to your."
+  - Needed:
+    - 1x 6-pin DF13-DuPont
+    - 4x 4-pin DF13-DuPont
