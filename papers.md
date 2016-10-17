@@ -8,7 +8,7 @@ List of Possible Papers to Read
 - [Designing a spatially aware and autonomous quadcopter](http://ieeexplore.ieee.org/xpl/login.jsp?reload=true&tp=&arnumber=6549521&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6549521)
 - [Intelligent Autonomous Systems for HCI (with a Kinect)](https://fcrar.fiu.edu/wp-content/uploads/2014/05/6_3_IntelligentAutonmousSystemsforHCI_FIU.pdf)
 - [Vision-Controlled Micro Flying Robots: From System Design to Autonomous Navigation and Mapping in GPS-Denied Environments (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6880770)
-- [Towards fully autonomous driving: Systems and algorithms](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5940562)
+- [Towards fully autonomous driving: Systems and algorithms (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5940562)
 - [Simultaneous Localization and Mapping: Part I] (http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
 
 Information / Blogs on Quadcopter Components
