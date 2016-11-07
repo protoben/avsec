@@ -9,9 +9,16 @@ List of Possible Papers to Read
 - [Intelligent Autonomous Systems for HCI (with a Kinect)](https://fcrar.fiu.edu/wp-content/uploads/2014/05/6_3_IntelligentAutonmousSystemsforHCI_FIU.pdf)
 - [Vision-Controlled Micro Flying Robots: From System Design to Autonomous Navigation and Mapping in GPS-Denied Environments (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6880770)
 - [Towards fully autonomous driving: Systems and algorithms (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5940562)
+
+SLAM
+----
+
 - [Simultaneous Localization and Mapping: Part I (DONE)] (http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
 - [Simultaneous Localization and Mapping: Part II](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
-- [FastSLAM 2.0: An improved particle filtering algorithm for simultaneous localization and mapping that provably converges](http://www.cs.cmu.edu/~mmde/mmdeijcai2003.pdf)
+- [On the representation and estimation of spatial uncertainty (EKF SLAM) (1986)](http://www.frc.ri.cmu.edu/%7Ehpm/project.archive/reference.file/Smith&Cheeseman.pdf)
+- [Divide and Conquer: EKF SLAM in O(n) (2008)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.217.4688)
+- [FastSLAM: A Factored Solution to the Simultaneous Localization and Mapping Problem (2002)](http://robots.stanford.edu/papers/montemerlo.fastslam-tr.html)
+- [FastSLAM 2.0: An improved particle filtering algorithm for simultaneous localization and mapping that provably converges (2003)](http://www.cs.cmu.edu/~mmde/mmdeijcai2003.pdf)
 
 Information / Blogs on Quadcopter Components
 ============================================
