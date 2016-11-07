@@ -11,7 +11,7 @@ List of Possible Papers to Read
 - [Towards fully autonomous driving: Systems and algorithms (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5940562)
 - [Simultaneous Localization and Mapping: Part I (DONE)] (http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
 - [Simultaneous Localization and Mapping: Part II](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
-- [FastSLAM 2.0 running on a low-cost embedded architecture](http://ieeexplore.ieee.org/document/7064524/)
+- [FastSLAM 2.0: An improved particle filtering algorithm for simultaneous localization and mapping that provably converges](http://www.cs.cmu.edu/~mmde/mmdeijcai2003.pdf)
 
 Information / Blogs on Quadcopter Components
 ============================================
