@@ -9,8 +9,9 @@ List of Possible Papers to Read
 - [Intelligent Autonomous Systems for HCI (with a Kinect)](https://fcrar.fiu.edu/wp-content/uploads/2014/05/6_3_IntelligentAutonmousSystemsforHCI_FIU.pdf)
 - [Vision-Controlled Micro Flying Robots: From System Design to Autonomous Navigation and Mapping in GPS-Denied Environments (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=6880770)
 - [Towards fully autonomous driving: Systems and algorithms (DONE)](http://ieeexplore.ieee.org/xpls/icp.jsp?arnumber=5940562)
-- [Simultaneous Localization and Mapping: Part I] (http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
+- [Simultaneous Localization and Mapping: Part I (DONE)] (http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
 - [Simultaneous Localization and Mapping: Part II](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
+- [FastSLAM 2.0 running on a low-cost embedded architecture](http://ieeexplore.ieee.org/document/7064524/)
 
 Information / Blogs on Quadcopter Components
 ============================================
