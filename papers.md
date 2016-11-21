@@ -20,6 +20,11 @@ SLAM
 - [FastSLAM: A Factored Solution to the Simultaneous Localization and Mapping Problem (2002)](http://robots.stanford.edu/papers/montemerlo.fastslam-tr.html)
 - [FastSLAM 2.0: An improved particle filtering algorithm for simultaneous localization and mapping that provably converges (2003)](http://www.cs.cmu.edu/~mmde/mmdeijcai2003.pdf)
 
+SLAM Online Course Notes
+------------------------
+
+-[Baye's Filter: Session 03] (file:///home/chronos/u-1a03fe0d4a31d4148692383b035893340a23db94/Downloads/Bayes%20Filter%20-%20Google%20Docs.pdf)
+
 Information / Blogs on Quadcopter Components
 ============================================
 
