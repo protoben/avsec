@@ -23,7 +23,7 @@ SLAM
 SLAM Online Course Notes
 ------------------------
 
--[Baye's Filter: Session 03] (file:///home/chronos/u-1a03fe0d4a31d4148692383b035893340a23db94/Downloads/Bayes%20Filter%20-%20Google%20Docs.pdf)
+-[Baye's Filter: Session 03] (https://docs.google.com/document/d/1vm_7vboUfvUO-5PLvOvJqNTUH4eQbjZKhZAqFRHFyiw/edit?usp=sharing)
 
 Information / Blogs on Quadcopter Components
 ============================================
