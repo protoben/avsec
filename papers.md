@@ -24,6 +24,7 @@ SLAM Online Course Notes
 ------------------------
 
 - [Baye's Filter: Session 03] (https://docs.google.com/document/d/1vm_7vboUfvUO-5PLvOvJqNTUH4eQbjZKhZAqFRHFyiw/edit?usp=sharing)
+- [Extended Kalman Filter: Session 04] (https://docs.google.com/document/d/1J98M4Og0F2Fr5lBdrTK5WWmtUsILJT1PAcahJE_mbHM/edit?usp=sharing)
 
 Information / Blogs on Quadcopter Components
 ============================================
