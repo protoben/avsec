@@ -29,6 +29,7 @@ SLAM Online Course Notes
 - [Unscented Kalman Filter: Session 06] (https://docs.google.com/document/d/1wXtByRrD3Wceep5igu-WWJsLCfWZoJEENj-F7cCropw/edit?usp=sharing)
 - [Extended Information Filter: Session 07] (https://docs.google.com/document/d/1_cD4LBRzzain7g9ZzjxNMgYg9pVFzIlMjsYtoac-8LY/edit?usp=sharing)
 - [Sparse Extended Information Filter: Session 8 Part 1] (https://docs.google.com/document/d/1HQSUWg9OvrLckv0CtEETRCybSRQDpXsCUdpH1emtauY/edit?usp=sharing)
+- [Sparse Extended Information Filter: Session 8 Part 2] (https://docs.google.com/document/d/1xlXSeUrvwpN-DNG1Mic1503ALux5gudWfN55sfK9UfQ/edit?usp=sharing)
 
 Information / Blogs on Quadcopter Components
 ============================================
