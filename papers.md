@@ -31,6 +31,7 @@ SLAM Online Course Notes
 - [Sparse Extended Information Filter: Session 8 Part 1] (https://docs.google.com/document/d/1HQSUWg9OvrLckv0CtEETRCybSRQDpXsCUdpH1emtauY/edit?usp=sharing)
 - [Sparse Extended Information Filter: Session 8 Part 2] (https://docs.google.com/document/d/1xlXSeUrvwpN-DNG1Mic1503ALux5gudWfN55sfK9UfQ/edit?usp=sharing)
 - [Short Kalman Filter Wrap-Up: Session 9] (https://docs.google.com/document/d/1C04WTnH_eI5YGeLefiO6dDEuQYkzFqc0O8D6akcK78E/edit?usp=sharing)
+- [Grid Maps: Session 10] (https://docs.google.com/document/d/1NujnGwyMT-bHaNOIvQYGWHqr3AH5jg28UjosUj4Uv-c/edit?usp=sharing)
 
 Information / Blogs on Quadcopter Components
 ============================================
