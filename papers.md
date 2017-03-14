@@ -13,7 +13,7 @@ List of Possible Papers to Read
 SLAM
 ----
 
-- [Simultaneous Localization and Mapping: Part I (DONE)] (http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
+- [Simultaneous Localization and Mapping: Part I (DONE)](http://ieeexplore.ieee.org/document/1638022/?arnumber=1638022)
 - [Simultaneous Localization and Mapping: Part II](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1678144)
 - [On the representation and estimation of spatial uncertainty (EKF SLAM) (1986)](http://www.frc.ri.cmu.edu/%7Ehpm/project.archive/reference.file/Smith&Cheeseman.pdf)
 - [Divide and Conquer: EKF SLAM in O(n) (2008)](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.217.4688)
@@ -23,16 +23,16 @@ SLAM
 SLAM Online Course Notes
 ------------------------
 
-- [Baye's Filter: Session 03] (https://docs.google.com/document/d/1vm_7vboUfvUO-5PLvOvJqNTUH4eQbjZKhZAqFRHFyiw/edit?usp=sharing)
-- [Extended Kalman Filter: Session 04] (https://docs.google.com/document/d/1J98M4Og0F2Fr5lBdrTK5WWmtUsILJT1PAcahJE_mbHM/edit?usp=sharing)
-- [Extended Kalman Filter Algorithm: Session 05] (https://docs.google.com/document/d/1ha37y3_xhSB74kBQA1gLrML3Lz_2kXXUtfvHRM_t7HM/edit?usp=sharing)
-- [Unscented Kalman Filter: Session 06] (https://docs.google.com/document/d/1wXtByRrD3Wceep5igu-WWJsLCfWZoJEENj-F7cCropw/edit?usp=sharing)
-- [Extended Information Filter: Session 07] (https://docs.google.com/document/d/1_cD4LBRzzain7g9ZzjxNMgYg9pVFzIlMjsYtoac-8LY/edit?usp=sharing)
-- [Sparse Extended Information Filter: Session 8 Part 1] (https://docs.google.com/document/d/1HQSUWg9OvrLckv0CtEETRCybSRQDpXsCUdpH1emtauY/edit?usp=sharing)
-- [Sparse Extended Information Filter: Session 8 Part 2] (https://docs.google.com/document/d/1xlXSeUrvwpN-DNG1Mic1503ALux5gudWfN55sfK9UfQ/edit?usp=sharing)
-- [Short Kalman Filter Wrap-Up: Session 9] (https://docs.google.com/document/d/1C04WTnH_eI5YGeLefiO6dDEuQYkzFqc0O8D6akcK78E/edit?usp=sharing)
-- [Grid Maps: Session 10] (https://docs.google.com/document/d/1NujnGwyMT-bHaNOIvQYGWHqr3AH5jg28UjosUj4Uv-c/edit?usp=sharing)
-- [Particle Filter - A Short Overview: Session 11] (https://docs.google.com/document/d/1UPpb2uk7_9oGOXE9CLpTYjyznvkStMt87hv6ObVzPUw/edit?usp=sharing)
+- [Baye's Filter: Session 03](https://docs.google.com/document/d/1vm_7vboUfvUO-5PLvOvJqNTUH4eQbjZKhZAqFRHFyiw/edit?usp=sharing)
+- [Extended Kalman Filter: Session 04](https://docs.google.com/document/d/1J98M4Og0F2Fr5lBdrTK5WWmtUsILJT1PAcahJE_mbHM/edit?usp=sharing)
+- [Extended Kalman Filter Algorithm: Session 05](https://docs.google.com/document/d/1ha37y3_xhSB74kBQA1gLrML3Lz_2kXXUtfvHRM_t7HM/edit?usp=sharing)
+- [Unscented Kalman Filter: Session 06](https://docs.google.com/document/d/1wXtByRrD3Wceep5igu-WWJsLCfWZoJEENj-F7cCropw/edit?usp=sharing)
+- [Extended Information Filter: Session 07](https://docs.google.com/document/d/1_cD4LBRzzain7g9ZzjxNMgYg9pVFzIlMjsYtoac-8LY/edit?usp=sharing)
+- [Sparse Extended Information Filter: Session 8 Part 1](https://docs.google.com/document/d/1HQSUWg9OvrLckv0CtEETRCybSRQDpXsCUdpH1emtauY/edit?usp=sharing)
+- [Sparse Extended Information Filter: Session 8 Part 2](https://docs.google.com/document/d/1xlXSeUrvwpN-DNG1Mic1503ALux5gudWfN55sfK9UfQ/edit?usp=sharing)
+- [Short Kalman Filter Wrap-Up: Session 9](https://docs.google.com/document/d/1C04WTnH_eI5YGeLefiO6dDEuQYkzFqc0O8D6akcK78E/edit?usp=sharing)
+- [Grid Maps: Session 10](https://docs.google.com/document/d/1NujnGwyMT-bHaNOIvQYGWHqr3AH5jg28UjosUj4Uv-c/edit?usp=sharing)
+- [Particle Filter - A Short Overview: Session 11](https://docs.google.com/document/d/1UPpb2uk7_9oGOXE9CLpTYjyznvkStMt87hv6ObVzPUw/edit?usp=sharing)
 
 Information / Blogs on Quadcopter Components
 ============================================
