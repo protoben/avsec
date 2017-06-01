@@ -36,6 +36,7 @@ SLAM Online Course Notes
 - [FastSLAM - Feature-based SLAM with Particle Filters: Session 12](https://docs.google.com/document/d/1TOgahguvw1ksksipOqBzDY-SmecH_-xxqRsUitcgnv4/edit?usp=sharing)
 - [Grid-Based SLAM with Rao-Blackwellized Particle Filters: Session 13](https://docs.google.com/document/d/1ThYyLo_I3pStKQ0rDJONfmWuLvLYaSZtt8fP-VFP7kw/edit?usp=sharing)
 - [Least Squares: Session 14](https://docs.google.com/document/d/1FHsDoGynKoTt9d9DLCvqBQ6bthLJU4ceBSEvaZrE42I/edit?usp=sharing)
+- [Least Squares SLAM: Session 15](https://docs.google.com/document/d/1k6LejB5wlqdN98MJobB9mTIWszCIx-CbjKS3m6u8e7s/edit?usp=sharing)
 
 Information / Blogs on Quadcopter Components
 ============================================
